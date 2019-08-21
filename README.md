@@ -1,0 +1,2 @@
+# Novus-Portal-V2
+A portal for students, admins, judges that features project submission/review and score tracking using Vue.JS, firebase user auth, database (with security rules), cloud functions, and dynamic links
