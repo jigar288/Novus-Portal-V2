@@ -1,4 +1,4 @@
-![Novus](https://i.imgur.com/NQjjdp4.png)
+![Novus](https://i.imgur.com/Rexh0GE.png)
 
 # Novus-Portal-V2
 A mobile responsive portal for students, admins, judges that features project submission/review and score tracking using Vue.JS, firebase user auth, database (with security rules), cloud functions, cloud data storage, hosting, and dynamic links
