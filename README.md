@@ -18,3 +18,11 @@ App Preview Link: http://bit.ly/novus-portal-preview
   <a href="https://novusclub.org/" rel="noopener" target="_blank"><img src="https://i.imgur.com/bdhzHSN.png" alt="Novus-logo"></a></p>
 </p>
 
+## Donate
+
+<p align="center">
+  <a href="https://donorbox.org/novus-club" rel="noopener" target="_blank"><img src="https://i.imgur.com/9RRGpqL.png" alt="Novus-logo"></a></p>
+</p>
+
+
+
