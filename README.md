@@ -20,6 +20,9 @@ App Preview Link: http://bit.ly/novus-portal-preview
 
 ## Donate
 
+Novus is a 501(c)(3) nonprofit organization based in Chicago that aims to give students of all backgrounds the opportunity to explore careers in technology and entrepreneurship. With society's increasing reliance on technology, the job outlook for students studying technology related career fields is growing faster than ever. Novus aims to give students the foundation they need to be successful in a world focused on technology.
+
+
 <p align="center">
   <a href="https://donorbox.org/novus-club" rel="noopener" target="_blank"><img src="https://i.imgur.com/9RRGpqL.png" alt="Novus-logo"></a></p>
 </p>
