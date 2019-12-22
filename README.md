@@ -11,6 +11,6 @@ App Preview: http://bit.ly/novus-portal-preview
 
 
 <p align="center">
-  <a href="https://novusclub.org/" rel="noopener" target="_blank"><img src="https://i.imgur.com/UUgJcAh.png" alt="Novus-logo"></a></p>
+  <a href="https://novusclub.org/" rel="noopener" target="_blank"><img src="https://i.imgur.com/rAU8br3.png" alt="Novus-logo"></a></p>
 </p>
 
