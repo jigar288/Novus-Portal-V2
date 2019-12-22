@@ -7,8 +7,10 @@ A mobile responsive portal for students, admins, judges that features project su
 
 **This repo is to just showcase my projects. Email me at jigar@novusclub.org to request code or project demo link**
 
-App Preview: http://bit.ly/novus-portal-preview
 
+## Preview
+
+App Preview Link: http://bit.ly/novus-portal-preview
 
 ## Screenshot
 
