@@ -12,10 +12,12 @@ A mobile responsive portal for students, admins, judges that features project su
 
 App Preview Link: http://bit.ly/novus-portal-preview
 
-## Screenshot
+## Screenshots
 
 <p align="center">
-  <a href="https://novusclub.org/" rel="noopener" target="_blank"><img src="https://i.imgur.com/bdhzHSN.png" alt="Novus-logo"></a></p>
+  <a href="https://novusclub.org/" rel="noopener" target="_blank"><img src="https://i.imgur.com/bdhzHSN.png" alt="Novus-logo"></a>
+<a href="https://novusclub.org/" rel="noopener" target="_blank"><img src="https://i.imgur.com/b6r6Dlt.png" alt="Novus-logo"></a>
+</p>
 </p>
 
 ## Donate
