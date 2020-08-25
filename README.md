@@ -3,7 +3,7 @@
 </p>
 
 # Novus-Portal-V2
-A mobile responsive front-end portal for students, admins, judges that features project submission/review and score tracking using Vue.JS
+A mobile responsive front-end portal for students, admins, judges that features project submission, review, score tracking, aggregration using Vue.JS
 
 Backend built with Node.js server hosted with Microsoft Azure, firebase user auth, firestore database (with security rules), and firebase cloud data storage
 
